@@ -130,3 +130,4 @@ jobs:
           kubectl get deployment backend
           kubectl get service backend
           kubectl get pods -l app=backend
+# Backend CD pull request
